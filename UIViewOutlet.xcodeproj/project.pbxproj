@@ -461,6 +461,7 @@
 				A5B7091D18ACBA1900CDCC5D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A5B7091E18ACBA1900CDCC5D /* Build configuration list for PBXNativeTarget "UIViewOutletTests" */ = {
 			isa = XCConfigurationList;
@@ -469,6 +470,7 @@
 				A5B7092018ACBA1900CDCC5D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

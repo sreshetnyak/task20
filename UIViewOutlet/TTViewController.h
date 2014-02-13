@@ -10,4 +10,9 @@
 
 @interface TTViewController : UIViewController
 
+@property (strong, nonatomic) IBOutletCollection(UIView) NSArray *witeField;
+@property (strong, nonatomic) IBOutletCollection(UIView) NSArray *blackField;
+@property (strong, nonatomic) IBOutletCollection(UIView) NSArray *redChekers;
+@property (strong, nonatomic) IBOutletCollection(UIView) NSArray *yellowChekers;
+
 @end
